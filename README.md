@@ -1,8 +1,8 @@
 # JS-page
-A webpage containing:
-=> Nabar with responsive hamburger menu
-=> Image Carousel with auto sliding images
-=> About section
-=> Feedback form that store data in excel sheet
-=> Contact button which redirects on whatsapp
-=> Three buttons which toggle between three sections
+A webpage containing: <br>
+=> Nabar with responsive hamburger menu <br>
+=> Image Carousel with auto sliding images <br>
+=> About section <br>
+=> Feedback form that store data in excel sheet <br>
+=> Contact button which redirects on whatsapp <br>
+=> Three buttons which toggle between three sections <br>
